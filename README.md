@@ -17,6 +17,12 @@ Cyber TECH Spãm̀ Tool is a Termux-based project that offers various powerful u
 - 💣 Discord Raid
 - 📱 Phone Number Lookup
 - 🌐 Web Vulnerability Scanner
+- 🌐 Web Cloner
+- 💦 Discord Token Spammer
+- 📱 Facebook Logs Spammer
+- 🪲 Virus Maker
+- 🎯 UK and USA Number Generator
+- ✉️ Temp Mail
 
 ...and many more!
 
@@ -27,22 +33,17 @@ Cyber TECH Spãm̀ Tool is a Termux-based project that offers various powerful u
 Use the following commands in **Termux** to install and run the tool:
 
 ```bash
-# Update and upgrade Termux
+
 apt upgrade -y && apt update -y
 
-# Set up Termux storage
 termux-setup-storage
 
-# Install Python
 apt install python -y
 
-# Install Git
 apt install git -y
 
-# Clone the repository
 git clone https://github.com/CrazyDev44/CyberTech-Spammer
 
-# Navigate to the directory and run the tool
 cd CyberTech-Spammer
 pip install -r requirements.txt
 python spam.py
