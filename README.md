@@ -14,7 +14,9 @@ Cyber TECH Spãm̀ Tool is a Termux-based project that offers various powerful u
 - 🕵️‍♂️ Username Tracker  
 - 📧 Mail Info  
 - 📂 Discord Nitro Generator  
-- 💣 Discord Raid  
+- 💣 Discord Raid
+- 📱 Phone Number Lookup
+- 🌐 Web Vulnerability Scanner
 
 ...and many more!
 
