@@ -329,6 +329,6 @@ apt install git -y
 
 git clone https://github.com/CrazyDev44/CyberTech-Spam
 
-cd CyberTech-Spammer
+cd CyberTech-Spam
 pip install -r requirements.txt
 python spam.py
