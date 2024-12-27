@@ -42,4 +42,5 @@ git clone https://github.com/CrazyDev44/CyberTech-Spammer
 
 # Navigate to the directory and run the tool
 cd CyberTech-Spammer
+pip install -r requirements.txt
 python spam.py
