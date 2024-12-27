@@ -38,8 +38,8 @@ apt install python -y
 apt install git -y
 
 # Clone the repository
-git clone <your-repository-link>
+git clone https://github.com/CrazyDev44/CyberTech-Spammer
 
 # Navigate to the directory and run the tool
-cd CyberTechSpam
+cd CyberTech-Spammer
 python spam.py
