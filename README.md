@@ -1,4 +1,4 @@
-# 🌐 **Cyber TECH Spãm̀ Tool** 🚀
+# 🌐 **CyberTech Spam Tool** 🚀
 
 ![Cyber TECH](path-to-your-uploaded-image)
 
