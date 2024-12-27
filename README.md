@@ -1,6 +1,6 @@
 # 🌐 **CyberTech Spam Tool** 🚀
 
-![Cyber TECH](https://github.com/CrazyDev44/CyberTech-Spammer/tree/main/IMG-20241227-WA0063.jpg)
+![Cyber TECH](https://github.com/CrazyDev44/CyberTech-Spammer/IMG-20241227-WA0063.jpg)
 
 ---
 
