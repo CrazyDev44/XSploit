@@ -32,7 +32,7 @@ def clear_storage_real(directories):
             print(colored(f"✘ Address not found: {dir_path}", "red"))
             continue
 
-        # List contents and apply progress bar
+        # 
         items = os.listdir(dir_path)
         for item in tqdm(items, desc=f"Scanning {dir_path}", colour="magenta"):
             item_path = os.path.join(dir_path, item)
